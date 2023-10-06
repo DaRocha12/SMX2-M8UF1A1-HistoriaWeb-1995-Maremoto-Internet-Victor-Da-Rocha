@@ -3,6 +3,7 @@
 ### Que es?
 
 El maremoto de internet fue el cambio de opinion de Bill gates hacia Internet al darse cuenta de que era un "maremoto". Al hacerlo, convirtio internet en el centro de atencion de microsoft que, meses despues, lanzaria Internet Explorer
+
 "Los próximos años serán muy emocionantes a medida que abordemos estos desafíos, son oportunidades. Internet es un maremoto. Cambia las reglas. Es una oportunidad increíble, así como un desafío increíble" dijo Bill Gates
 ![Internetexplorer][Iexplorer]
 
